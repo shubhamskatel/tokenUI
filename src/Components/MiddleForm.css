@@ -1,0 +1,12 @@
+.midForm {
+  width: "18rem";
+  text-align: center;
+  display: flex;
+  margin: 100px 400px 0px 400px;
+  padding: 10px;
+}
+
+.pads {
+  padding: 10px;
+  margin: 10px;
+}
